@@ -10,7 +10,7 @@ En la carpeta `slides` vamos a tener las diapositivas y en la carpeta `portfolio
 
 Recordad que siempre en discord van a tener pinneado la información relevante del curso como los enlaces al repositorio o la práctica.
 
-**External resources**
+## External resources
 
 - **common**
   - [caniuse](https://caniuse.com/)
